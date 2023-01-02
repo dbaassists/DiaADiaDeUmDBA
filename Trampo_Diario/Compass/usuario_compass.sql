@@ -1,0 +1,1 @@
+ALTER LOGIN [brsgdb-compass] WITH PASSWORD = '2022CompasfdKJl3$nlN54564jsdlkjOIU'
